@@ -1,0 +1,8 @@
+D:\dias_vividos\dias_vividos\bin\Debug\dias_vividos.exe.config
+D:\dias_vividos\dias_vividos\bin\Debug\dias_vividos.exe
+D:\dias_vividos\dias_vividos\bin\Debug\dias_vividos.pdb
+D:\dias_vividos\dias_vividos\obj\Debug\dias_vividos.csproj.AssemblyReference.cache
+D:\dias_vividos\dias_vividos\obj\Debug\dias_vividos.csproj.SuggestedBindingRedirects.cache
+D:\dias_vividos\dias_vividos\obj\Debug\dias_vividos.csproj.CoreCompileInputs.cache
+D:\dias_vividos\dias_vividos\obj\Debug\dias_vividos.exe
+D:\dias_vividos\dias_vividos\obj\Debug\dias_vividos.pdb
